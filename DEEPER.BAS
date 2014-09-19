@@ -1,4 +1,3 @@
-
 1 REM This programme is open sourced under the MIT License (http://choosealicense.com/licenses/mit/) : you can redistribute it and/or modify it provided that this notice is preserved.
 2 PRINT "WELCOME TO DEEPER, AN OPEN SOURCE SOFTWARE MADE WITH BASIC TO CALCULATE SIMPLE AND COMPOUND INTEREST"
 3 PRINT
