@@ -1,7 +1,7 @@
-10 REM This programme is open sourced under the MIT License (http://choosealicense.com/licenses/mit/) : you can redistribute it and/or modify it provided that this notice is preserved.
+10 REM This programme is released under the MIT License (http://choosealicense.com/licenses/mit/) : you can redistribute it and/or modify it provided that this notice is preserved.
 15 PRINT
 16 PRINT
-20 PRINT "WELCOME TO DEEPER, AN OPEN SOURCE SOFTWARE MADE WITH BASIC TO CALCULATE SIMPLE AND COMPOUND INTEREST"
+20 PRINT "WELCOME TO DEEPER, A FREE SOFTWARE REALEASED UNDER THE 'MIT LICENSE' AND MADE WITH BASIC TO CALCULATE SIMPLE AND COMPOUND INTEREST."
 30 PRINT
 40 REM TAKE ALL THE INPUTS
 50 INPUT "TO CALCULATE COMPOUND INTEREST PRESS '1'. TO CALCULATE SIMPLE INTEREST PRESS '0'"; A
