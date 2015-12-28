@@ -1,4 +1,4 @@
-10 REM This programme is released under the MIT License (http://choosealicense.com/licenses/mit/) : you can redistribute it and/or modify it provided that this notice is preserved.
+10 REM This program is released under the MIT License (http://choosealicense.com/licenses/mit/) : you can redistribute it and/or modify it provided that this notice is preserved.
 15 PRINT
 16 PRINT
 20 PRINT "WELCOME TO DEEPER, A FREE SOFTWARE REALEASED UNDER THE 'MIT LICENSE' AND MADE WITH BASIC TO CALCULATE SIMPLE AND COMPOUND INTEREST."
@@ -13,7 +13,7 @@
 80 INPUT "WHAT IS THE TIME OF INVESTMENT (IN YEARS)"; T
 90 INPUT "PLEASE INPUT THE ANNUAL INTERST RATE"; R
 100 IF A = 0 THEN 130
-110 INPUT "PLEASE INPUT THE NUMBER OF CALCULATION OF COMPOUND INTEREST PER YEAR"; N
+110 INPUT "PLEASE INPUT THE NUMBER OF INTERVALS IN WHICH COMPOUND INTEREST WILL BE CALCULATED PER YEAR"; N
 120 GOTO 150
 130 LET S = (P * R * T) / 100
 140 GOTO 190
